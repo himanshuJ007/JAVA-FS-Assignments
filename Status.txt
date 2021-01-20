@@ -1,23 +1,26 @@
 93248 -HIMANSHU JOSHI
 ------------------
-
 MySQL Assignment :-
 --------------------
-Assignment 1 (Done)
+11-Jan-2021 ----> Assignment ----> Done
 
-Assignment 2  (Done)
+11-Jan-2021 ----> MySQL Assignments ----> Done (Select Clause, Join, Functions, Aggregate Functions, GroupBy)
 
-Assignment 3  (Done)
+12-Jan-2021 ----> MySQL Assignments ----> Done (DML Operations, DDL with Constraints, Sub-Queries)
 
 Java Assignment :-
 -------------------
 
-Assignment 1 (Done)
+13-Jan-2021 ----> Assignment 1 ----> Done (Online Examination)
 
-Assignment 2 (Done)
+13-Jan-2021 ----> Assignment 2 ----> Done (Employee Records Using Array)
 
-Assignment 3 (Done)
+13-Jan-2021 ----> Assignment 3 ----> Done (Employee Details with 4 Instance Variables)
 
-Assignment 4 (Done)
+15-Jan-2021 ----> Assignment 4 ----> Done (Manager/Programmer is a Employee)
 
-Assignment 5 (Done)
+18-Jan-2021 ----> Assignment 5 ----> Done (Student Details)
+
+18-Jan-2021 ----> Assignment 6 (Mini_Project) ----> (Pending) (Banking Application)
+
+19-Jan-2021 ----> Assignment 7 ----> Done (Display Names in Asc or Desc Order (Ignore Case Sensitive))
